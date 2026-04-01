@@ -28,7 +28,7 @@ def get_base64_of_image(image_file):
 img_base64 = get_base64_of_image("img1.jpg")  # Ensure img1.jpg is in same folder
 
 # 🔗 Encode Logo Image (img2.png) as Base64
-logo_base64 = get_base64_of_image("img2.png")  # Ensure img2.png is in the same folder
+logo_base64 = get_base64_of_image("img2.png")  # Ensure img2.png is in the same folder 
 
 
 st.markdown(
