@@ -9,6 +9,7 @@ import base64
 import requests
 from streamlit_lottie import st_lottie
 
+
 # 🚀 Load the Model
 model = load_model('plant_disease_model.h5')   # ensure file exists
 
